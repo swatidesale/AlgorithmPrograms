@@ -7,7 +7,7 @@
  */
 var fs = require('fs');
 const readline = require('readline');
-var common = require('/home/bridgeit/Desktop/Swati/Utility/utility.js');
+var common = require('./utility.js');
 const read = readline.createInterface(process.stdin, process.stdout);
 
 /*
